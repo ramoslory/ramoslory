@@ -1,14 +1,13 @@
 <h1 align="center">✨ Olá, eu sou Lory! ✨</h1>
 
 🌱  Eletrônica/programação
-- 📫 Como me encontrar: [ramoslorylor@gmail.com]
-- ⚡ Fun fact: Uma vez tentei debugar um problema por horas, só para descobrir que era um ponto e vírgula faltando! 😅
-- <p align="left">
+- 📫 Como me encontrar:  <p align="left">
     <a href="https://www.instagram.com">
         <img 
             alt="instagram" 
             src="https://custom-icon-badges.demolab.com/badge/-@lorytyotindev-red?style=for-the-badge&logo=mention&logoColor=red"
         />
+- ⚡ Fun fact: Uma vez tentei debugar um problema por horas, só para descobrir que era um ponto e vírgula faltando! 😅
 
 <p align="center">
 🌿 Engenheira de Software | Dev Full Stack
