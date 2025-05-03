@@ -10,7 +10,6 @@
             src="https://custom-icon-badges.demolab.com/badge/-@lorytyotindev-red?style=for-the-badge&logo=mention&logoColor=red"
         />
 
-- 
 <p align="center">
 🌿 Engenheira de Software | Dev Full Stack
 </p>
