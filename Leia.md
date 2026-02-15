@@ -1,11 +1,11 @@
 <h1 align="center">✨ Olá, eu sou Lory! ✨</h1>
 
 <p align="center">
-   Desenvolvedora 
-   Security
+**Desenvolvedora
+🔒 Security
 💻 Programação & Eletrônica
-🤖 Explorando IA, automações e arquitetura moderna
-</p>
+🤖 Explorando IA, automações e arquitetura moderna**
+</p> 
 
 ---
 
