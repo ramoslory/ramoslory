@@ -12,7 +12,7 @@
 ## 🌱 Sobre mim
 
 - Desenvolvedora de software
-- Experiência com testes e boas práticas
+- Experiência com testes 
 - Apaixonado por construir ferramentas inteligentes que simplificam os processos digitais
 
 ---
