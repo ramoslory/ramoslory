@@ -12,7 +12,7 @@
 
 ## 🌱 Sobre mim
 
--  Desenvolvedora de software focado em automação, criação de bots, e engenharia reversa
+-  Desenvolvedora de software 
 -  Experiência com testes de sistema
 - Apaixonada por construir ferramentas inteligentes que simplificam os processos digitais
   
