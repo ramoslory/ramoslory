@@ -2,7 +2,7 @@
 
 <p align="center">
 🚀 Desenvolvedora 
-🔒 Security
+🔒 Cybersecurity
 💻 Eletrônica
 🤖 Explorando IA, automações e arquitetura moderna
 </p>
