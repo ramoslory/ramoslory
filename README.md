@@ -12,7 +12,9 @@
 ##  About Me
 
 -Software Developer
+
 -Experience with testing
+
 -Passionate about building intelligent tools that simplify digital processes 🚀💻
 
 ---
