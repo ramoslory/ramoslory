@@ -1,23 +1,23 @@
-<h1 align="center">✨ Olá, eu sou Lory! ✨</h1>
+<h1 align="center">✨ Hello , I am Lory! ✨</h1>
 
 <p align="center">
-🚀 Desenvolvedora 
+🚀 Developer
 🔒 Cybersecurity
-💻 Eletrônica
-🤖 Explorando IA, automações e arquitetura moderna
+💻 Electronics
+🤖 Exploring AI, automation, and modern architecture
 </p>
 
 ---
 
-##  Sobre mim
+##  About Me
 
-- Desenvolvedora de software
-- Experiência com testes 
-- Apaixonada por construir ferramentas inteligentes que simplificam os processos digitais
+-Software Developer
+-Experience with testing
+-Passionate about building intelligent tools that simplify digital processes 🚀💻
 
 ---
 
-## 📫 Contato
+## 📫 Connect with me
 
 <p align="left">
   <a href="https://www.instagram.com/lorytyotindev">
@@ -30,7 +30,7 @@
 
 ---
 
-## 🖥️ Linguagens
+## 🖥️ Languages
 
 ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
 ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
@@ -38,14 +38,10 @@
 ![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
 
 ---
+<div align="right">
+  <img height="200" src="https://media4.giphy.com/media/v1.Y2lkPTc5MGI3NjExZzdoNmo2OG1vem54a3hnd2o2ZmZsYW81b215c3dkYzB3Z2U0Zml0byZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/78XCFBGOlS6keY1Bil/giphy.gif"  />
+</div>
 
-## 📊 GitHub Stats
-
-<p align="center">
-  <img height="160em" src="https://github-readme-stats.vercel.app/api?username=ramoslory&show_icons=true&theme=tokyonight"/>
-  <img height="160em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ramoslory&layout=compact&theme=tokyonight"/>
-</p>
-
+###
 ---
 
-✨ "Entre o silêncio e a coragem, encontro a minha força."
