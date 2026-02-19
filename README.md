@@ -9,7 +9,7 @@
 
 ---
 
-## 🌱 Sobre mim
+##  Sobre mim
 
 - Desenvolvedora de software
 - Experiência com testes 
