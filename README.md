@@ -3,7 +3,7 @@
 <p align="center">
 🚀 Desenvolvedora 
 🔒 Security
-💻 Eletrônica & Programação  
+💻 Eletrônica
 🤖 Explorando IA, automações e arquitetura moderna
 </p>
 
@@ -13,7 +13,7 @@
 
 - Desenvolvedora de software
 - Experiência com testes 
-- Apaixonado por construir ferramentas inteligentes que simplificam os processos digitais
+- Apaixonada por construir ferramentas inteligentes que simplificam os processos digitais
 
 ---
 
