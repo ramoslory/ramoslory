@@ -27,7 +27,11 @@
     />
   </a>
 </p>
+       <div align="right">
+  <img height="200" src="https://media4.giphy.com/media/v1.Y2lkPTc5MGI3NjExZzdoNmo2OG1vem54a3hnd2o2ZmZsYW81b215c3dkYzB3Z2U0Zml0byZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/78XCFBGOlS6keY1Bil/giphy.gif"  />
+</div>
 
+###                                                             
 ---
 
 ## 🖥️ Languages
@@ -38,10 +42,6 @@
 ![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
 
 ---
-<div align="right">
-  <img height="200" src="https://media4.giphy.com/media/v1.Y2lkPTc5MGI3NjExZzdoNmo2OG1vem54a3hnd2o2ZmZsYW81b215c3dkYzB3Z2U0Zml0byZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/78XCFBGOlS6keY1Bil/giphy.gif"  />
-</div>
 
-###
 ---
 
