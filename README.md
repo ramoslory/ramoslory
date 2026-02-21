@@ -1,6 +1,5 @@
 <h1 align="center">✨ Hello, I'm Lory! ✨</h1>
 My name is lory and I'm a software developer, from brazil.
----
 
 ## 👩‍💻 About Me
 
