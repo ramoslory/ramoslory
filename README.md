@@ -1,8 +1,8 @@
 <h1 align="center">✨ Hello , I am Lory! ✨</h1>
----
+
  
  <div align="left">About me
----
+
 🚀 Developer
   
 🔒 Cybersecurity
