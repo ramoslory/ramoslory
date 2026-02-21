@@ -1,7 +1,8 @@
 <h1 align="center">✨ Hello , I am Lory! ✨</h1>
+---
 
-<p align="center">
-  About me
+<div align="left">
+  I build with
   
 🚀 Developer
   
@@ -10,7 +11,6 @@
 💻 Electronics
 
 🤖 Exploring AI, automation, and modern architecture
-
 </p>
 
 ---
