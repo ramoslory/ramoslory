@@ -1,23 +1,19 @@
 <h1 align="center">✨ Hello , I am Lory! ✨</h1>
 
 <p align="center">
+  About me
+  
 🚀 Developer
+  
 🔒 Cybersecurity
+
 💻 Electronics
+
 🤖 Exploring AI, automation, and modern architecture
+
 </p>
 
 ---
-
-About me
-
-<p align="center">
-🚀 Developer
-🔒 Cybersecurity
-💻 Electronics
-🤖 Exploring AI, automation, and modern architecture
--Passionate about building intelligent tools that simplify digital processes 🚀💻
-</p>
 
 I build with
 
