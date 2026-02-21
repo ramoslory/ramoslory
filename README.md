@@ -1,9 +1,8 @@
 <h1 align="center">✨ Hello , I am Lory! ✨</h1>
 ---
-
-<div align="left">
-  I build with
-  
+ 
+ <div align="left">About me
+---
 🚀 Developer
   
 🔒 Cybersecurity
@@ -11,12 +10,12 @@
 💻 Electronics
 
 🤖 Exploring AI, automation, and modern architecture
-</p>
+
 
 ---
 
 I build with
-
+---
 <div align="left">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="40" alt="javascript logo"  />
   <img width="12" />
