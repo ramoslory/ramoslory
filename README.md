@@ -3,7 +3,7 @@ My name is lory and I'm a software developer, from brazil.
 
 ## 👩‍💻 About Me
 
-🚀 **Desenvolvedora**  
+🚀 **Desenvolvedora FullStack**  
 🔒 **Cybersecurity**  
 💻 **Do hardware ao software**
 🤖 **Automation & Modern Architecture**
