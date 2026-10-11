@@ -1,8 +1,8 @@
-<h1 align="center">Lory Ramos</h1>
+<h1 align="center">👩‍💻 Lory Ramos</h1>
 
 <p align="center">
   <b>Engenheira de Software • Desenvolvedora Full Stack</b><br/>
-  Cibersegurança • Automação & IA • Arquitetura de Software
+  🔒 Cibersegurança &nbsp;|&nbsp; 🤖 Automação & IA &nbsp;|&nbsp; 🏗️ Arquitetura de Software
 </p>
 
 <p align="center">
@@ -15,26 +15,26 @@
 
 ---
 
-## Sobre
+## 👋 Sobre mim
 
-Engenheira de Software formada, com atuação em desenvolvimento Full Stack, automação de processos e segurança da informação. Tenho uma visão completa de sistemas, do hardware à aplicação, o que me permite diagnosticar problemas em qualquer camada e entregar soluções robustas, seguras e de fácil manutenção.
+Engenheira de Software formada, com atuação em desenvolvimento Full Stack, automação de processos e segurança da informação. Tenho uma visão completa de sistemas, do hardware à aplicação, o que me permite diagnosticar problemas em qualquer camada e entregar soluções robustas, seguras e de fácil manutenção. 🇧🇷
 
-## Formação
+## 🎓 Formação
 
-🎓 **Engenharia de Software** — graduada
+- **Engenharia de Software** — graduada
 
-## Áreas de atuação
+## 🚀 Áreas de atuação
 
-- **Desenvolvimento Full Stack:** aplicações web completas, com APIs, banco de dados e interfaces modernas
-- **Cibersegurança:** práticas de desenvolvimento seguro e proteção de sistemas
-- **Automação e IA:** automação de processos e uso de inteligência artificial em soluções reais
-- **Suporte técnico e manutenção:** manutenção de sistemas e de computadores (hardware e software)
+- 🌐 **Desenvolvimento Full Stack:** aplicações web completas, com APIs, banco de dados e interfaces modernas
+- 🔒 **Cibersegurança:** práticas de desenvolvimento seguro e proteção de sistemas
+- 🤖 **Automação e IA:** automação de processos e uso de inteligência artificial em soluções reais
+- 🛠️ **Suporte técnico e manutenção:** manutenção de sistemas e de computadores (hardware e software)
 
 ---
 
-## Tecnologias
+## 🧰 Tecnologias
 
-**Linguagens e front-end**
+**🎨 Linguagens e front-end**
 
 <p>
   <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black" alt="JavaScript" />
@@ -46,7 +46,7 @@ Engenheira de Software formada, com atuação em desenvolvimento Full Stack, aut
   <img src="https://img.shields.io/badge/Tailwind_CSS-06B6D4?style=flat-square&logo=tailwindcss&logoColor=white" alt="Tailwind CSS" />
 </p>
 
-**Back-end e bancos de dados**
+**⚙️ Back-end e bancos de dados**
 
 <p>
   <img src="https://img.shields.io/badge/Node.js-339933?style=flat-square&logo=nodedotjs&logoColor=white" alt="Node.js" />
@@ -57,7 +57,7 @@ Engenheira de Software formada, com atuação em desenvolvimento Full Stack, aut
   <img src="https://img.shields.io/badge/MongoDB-47A248?style=flat-square&logo=mongodb&logoColor=white" alt="MongoDB" />
 </p>
 
-**Ferramentas**
+**🧩 Ferramentas**
 
 <p>
   <img src="https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white" alt="Git" />
@@ -67,4 +67,25 @@ Engenheira de Software formada, com atuação em desenvolvimento Full Stack, aut
 
 ---
 
-##
+## 📌 Projetos em destaque
+
+| 📁 Projeto | 📝 Descrição | 🧰 Tecnologias |
+|-----------|--------------|----------------|
+| [Nome do projeto](https://github.com/ramoslory/NOME-DO-REPO) | Descrição objetiva do problema que resolve | React, Node.js |
+| [Nome do projeto](https://github.com/ramoslory/NOME-DO-REPO) | Descrição objetiva do problema que resolve | Python, Django |
+
+---
+
+## 📊 Estatísticas do GitHub
+
+<p align="center">
+  <img height="160" src="https://github-readme-stats.vercel.app/api?username=ramoslory&show_icons=true&theme=default&hide_border=true" alt="Estatísticas" />
+  <img height="160" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ramoslory&layout=compact&theme=default&hide_border=true" alt="Linguagens mais usadas" />
+</p>
+
+---
+
+<p align="center">
+  🤝 Aberta a oportunidades, parcerias e troca de conhecimento sobre desenvolvimento, segurança e automação.<br/>
+  ✨ Vamos construir algo incrível juntos!
+</p>
