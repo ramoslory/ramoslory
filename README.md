@@ -20,8 +20,6 @@ Sou desenvolvedora de software no Brasil e gosto de entender um sistema por inte
 - 🔒 **Cibersegurança**: foco em construir e manter sistemas seguros
 - 💻 **Do hardware ao software**: manutenção de sistemas e computadores
 - 🤖 **Automação & IA**: automatizando processos e explorando arquiteturas modernas
-- 🌱 **Estudando agora:** _(coloque aqui o que você está aprendendo)_
-
 ---
 
 ## 🛠 Tecnologias
