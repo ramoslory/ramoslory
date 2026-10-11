@@ -1,78 +1,70 @@
-<h1 align="center">✨ Olá, eu sou a Lory! ✨</h1>
+<h1 align="center">Lory Ramos</h1>
 
 <p align="center">
-  <b>Desenvolvedora Full Stack • Cibersegurança • Automação & IA</b><br/>
-  Do hardware ao software, construindo soluções completas 🇧🇷
+  <b>Engenheira de Software • Desenvolvedora Full Stack</b><br/>
+  Cibersegurança • Automação & IA • Arquitetura de Software
 </p>
-
-<p align="center">
-  <img src="https://komarev.com/ghpvc/?username=SEU_USUARIO&label=Visitas&color=ff69b4&style=flat-square" alt="visitas" />
-  <img src="https://img.shields.io/github/followers/SEU_USUARIO?style=flat-square&color=ff69b4" alt="seguidores" />
-</p>
-
----
-
-## 👩‍💻 Sobre mim
-
-Sou desenvolvedora de software no Brasil e gosto de entender um sistema por inteiro: da máquina até a interface.
-
-- 🚀 **Full Stack**: aplicações web completas, do back-end ao front-end
-- 🔒 **Cibersegurança**: foco em construir e manter sistemas seguros
-- 💻 **Do hardware ao software**: manutenção de sistemas e computadores
-- 🤖 **Automação & IA**: automatizando processos e explorando arquiteturas modernas
----
-
-## 🛠 Tecnologias
-
-<div align="center">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="40" alt="JavaScript" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" height="40" alt="TypeScript" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" height="40" alt="Node.js" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" height="40" alt="Python" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/django/django-plain.svg" height="40" alt="Django" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" height="40" alt="React" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" height="40" alt="HTML5" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" height="40" alt="CSS3" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/tailwindcss/tailwindcss-original.svg" height="40" alt="Tailwind CSS" />
-  <br/><br/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" height="40" alt="MySQL" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-original.svg" height="40" alt="PostgreSQL" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mongodb/mongodb-original.svg" height="40" alt="MongoDB" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-original.svg" height="40" alt="Docker" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" height="40" alt="Git" />
-</div>
-
----
-
-## 📊 Estatísticas do GitHub
-
-<p align="center">
-  <img height="170" src="https://github-readme-stats.vercel.app/api?username=SEU_USUARIO&show_icons=true&theme=radical&hide_border=true" alt="stats" />
-  <img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=SEU_USUARIO&layout=compact&theme=radical&hide_border=true" alt="linguagens" />
-</p>
-
----
-
-## 📌 Projetos em destaque
-
-| Projeto | Descrição | Tecnologias |
-|---------|-----------|-------------|
-| [Nome do projeto](link) | O que ele faz, em uma frase | React, Node.js |
-| [Nome do projeto](link) | O que ele faz, em uma frase | Python, Django |
-
----
-
-## 🌐 Vamos conversar?
 
 <p align="center">
   <a href="https://www.instagram.com/lorytyotindev">
-    <img alt="Instagram" src="https://img.shields.io/badge/Instagram-@lorytyotindev-E4405F?style=for-the-badge&logo=instagram&logoColor=white" />
+    <img alt="Instagram" src="https://img.shields.io/badge/Instagram-@lorytyotindev-E4405F?style=flat-square&logo=instagram&logoColor=white" />
   </a>
-  <!-- Adicione LinkedIn e e-mail se quiser -->
-  <!-- <a href="https://linkedin.com/in/SEU_PERFIL"><img alt="LinkedIn" src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" /></a> -->
-  <!-- <a href="mailto:seu@email.com"><img alt="Email" src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" /></a> -->
+  <!-- <a href="https://linkedin.com/in/SEU_PERFIL"><img alt="LinkedIn" src="https://img.shields.io/badge/LinkedIn-0A66C2?style=flat-square&logo=linkedin&logoColor=white" /></a> -->
+  <!-- <a href="mailto:seu@email.com"><img alt="Email" src="https://img.shields.io/badge/Email-D14836?style=flat-square&logo=gmail&logoColor=white" /></a> -->
 </p>
 
-<p align="center">
-  <i>💬 Sempre aberta a trocar ideias sobre código, segurança e automação!</i>
+---
+
+## Sobre
+
+Engenheira de Software formada, com atuação em desenvolvimento Full Stack, automação de processos e segurança da informação. Tenho uma visão completa de sistemas, do hardware à aplicação, o que me permite diagnosticar problemas em qualquer camada e entregar soluções robustas, seguras e de fácil manutenção.
+
+## Formação
+
+🎓 **Engenharia de Software** — graduada
+
+## Áreas de atuação
+
+- **Desenvolvimento Full Stack:** aplicações web completas, com APIs, banco de dados e interfaces modernas
+- **Cibersegurança:** práticas de desenvolvimento seguro e proteção de sistemas
+- **Automação e IA:** automação de processos e uso de inteligência artificial em soluções reais
+- **Suporte técnico e manutenção:** manutenção de sistemas e de computadores (hardware e software)
+
+---
+
+## Tecnologias
+
+**Linguagens e front-end**
+
+<p>
+  <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black" alt="JavaScript" />
+  <img src="https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white" alt="TypeScript" />
+  <img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white" alt="Python" />
+  <img src="https://img.shields.io/badge/React-20232A?style=flat-square&logo=react&logoColor=61DAFB" alt="React" />
+  <img src="https://img.shields.io/badge/HTML5-E34F26?style=flat-square&logo=html5&logoColor=white" alt="HTML5" />
+  <img src="https://img.shields.io/badge/CSS3-1572B6?style=flat-square&logo=css3&logoColor=white" alt="CSS3" />
+  <img src="https://img.shields.io/badge/Tailwind_CSS-06B6D4?style=flat-square&logo=tailwindcss&logoColor=white" alt="Tailwind CSS" />
 </p>
+
+**Back-end e bancos de dados**
+
+<p>
+  <img src="https://img.shields.io/badge/Node.js-339933?style=flat-square&logo=nodedotjs&logoColor=white" alt="Node.js" />
+  <img src="https://img.shields.io/badge/Express-000000?style=flat-square&logo=express&logoColor=white" alt="Express" />
+  <img src="https://img.shields.io/badge/Django-092E20?style=flat-square&logo=django&logoColor=white" alt="Django" />
+  <img src="https://img.shields.io/badge/MySQL-4479A1?style=flat-square&logo=mysql&logoColor=white" alt="MySQL" />
+  <img src="https://img.shields.io/badge/PostgreSQL-4169E1?style=flat-square&logo=postgresql&logoColor=white" alt="PostgreSQL" />
+  <img src="https://img.shields.io/badge/MongoDB-47A248?style=flat-square&logo=mongodb&logoColor=white" alt="MongoDB" />
+</p>
+
+**Ferramentas**
+
+<p>
+  <img src="https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white" alt="Git" />
+  <img src="https://img.shields.io/badge/GitHub-181717?style=flat-square&logo=github&logoColor=white" alt="GitHub" />
+  <img src="https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=white" alt="Docker" />
+</p>
+
+---
+
+##
